@@ -1,6 +1,6 @@
 I'm an experienced Python developer working with Godot (GDscript) and learning full-stack development. I love solving problems and tackling new challenges, always looking to improve my skills and grow as a developer.
 
-[![521358dce1586164bac28f140d7c77f8.jpg](https://i.postimg.cc/5yynyPY9/521358dce1586164bac28f140d7c77f8.jpg)](https://postimg.cc/H8GQP99F)
+
 
 [![macbookhongkongnohand.jpg](https://i.postimg.cc/VNSK0NH1/macbookhongkongnohand.jpg)](https://postimg.cc/HJgwfTgP)
 
